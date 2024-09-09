@@ -2,6 +2,7 @@
 
 * React/Typescript/Next
 * https://github.com/dmfdiogo/iot-front
+* [screenshots.pdf](https://github.com/dmfdiogo/radix-challenge/blob/main/screenshots.pdf)
 
 ## Backend
 
@@ -21,7 +22,7 @@
 * ~~ci/cd~~
 * backend authentication
 * ~~load/testing report~~
-* architectural improvements -> 
+* architectural improvements -> [diagrams-architecture-and-improvements.pdf](https://github.com/dmfdiogo/radix-challenge/blob/main/diagrams-architecture-and-improvements.pdf)
 
 ### Time spent in each task 
 
