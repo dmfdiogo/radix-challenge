@@ -9,7 +9,7 @@
 * Python/FastAPI
 * https://github.com/dmfdiogo/iot-backend
 
-### Task conclusion
+### Milestones
 
 * Database modeling 
 * Real-time equipment request endpoint
@@ -23,6 +23,8 @@
 * backend authentication
 * ~~load/testing report~~
 * architectural improvements -> [diagrams-architecture-and-improvements.pdf](https://github.com/dmfdiogo/radix-challenge/blob/main/diagrams-architecture-and-improvements.pdf)
+
+**Note: Overall delay due to learning Python/FastAPI in the process.**
 
 ### Time spent in each task 
 
