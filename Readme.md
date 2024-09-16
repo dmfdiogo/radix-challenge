@@ -15,7 +15,7 @@
 * Real-time equipment request endpoint
 * API Endpoint for CSV Upload
 * Screen for displaying info and charts
-* ~~Front & backend integration~~
+* Front & backend integration
 * ~~Frontend documentation~~
 * Backend documentation with swagger
 * ~~unit and integration tests~~
@@ -28,7 +28,7 @@
 
 ### Time spent in each task 
 
-* Architecture Planning: 20%
-* Frontend: 20% 
-* Backend: 40%
-* Troubleshooting problems: 20%
+* Architecture Planning: 5%
+* Frontend: 30% 
+* Backend: 50%
+* Troubleshooting problems: 15%
